@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="255" src="https://raw.githubusercontent.com/bkshetty/bkshetty/refs/heads/main/BHUVAN%20KUMAR%20SHETTY%20H.png"  />
+  <img height="275" src="https://raw.githubusercontent.com/bkshetty/bkshetty/refs/heads/main/BHUVAN%20KUMAR%20SHETTY%20H.png"  />
 </div>
 
 ###
